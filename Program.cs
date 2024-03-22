@@ -11,7 +11,7 @@
     // решение 8 задачи
     //new_feature
 
-    ////solve task1
-
+    //solve task1
+    //solve task2
 
 }
